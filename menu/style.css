@@ -1,0 +1,17 @@
+
+
+.selector-for-some-widget {
+    box-sizing: content-box;
+  }
+
+#navbar-text {
+    margin-left: 50%;
+
+}
+hr.solid {
+    border-top: 3px solid #bbb;
+  }
+
+
+
+
